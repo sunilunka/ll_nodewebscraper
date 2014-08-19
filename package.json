@@ -1,0 +1,19 @@
+{
+  "name": "nodescraper",
+  "version": "0.0.0",
+  "description": "Node Web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./.git"
+  },
+  "keywords": [
+    "Web",
+    "scraper"
+  ],
+  "author": "Sunil Unka",
+  "license": "ISC"
+}
